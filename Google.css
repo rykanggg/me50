@@ -1,0 +1,116 @@
+
+            body{
+                font-family: arial, sans-serif;
+            }
+            nav {
+                text-align: right;
+
+        	}
+
+        	img {
+        		display: block;
+  				margin-left: auto;
+  				margin-right: auto;
+  				height: 92px;
+  				padding-top: 109px;
+  				padding-bottom:30px;
+
+
+        	}
+
+        	form {
+        		text-align: center;
+        		
+        	}
+        	input {
+        		margin-bottom: 40px;
+        		width: 500px;
+                height: 30px;
+
+
+        	}
+
+            .conditions {
+                width: 200px;
+                display: inline-block;
+                font-size: 13px;
+
+            }
+
+        	#bar {
+        		padding: 10px;
+        		font-size: 20px;
+        		border-radius: 25px;
+                cursor: text;
+        	}
+
+            #bar:hover {
+                box-shadow: 2px 2px 2px #3c4043 ;
+            }
+
+        	.button {
+        		background-color: #f8f9fa;
+                border: 1px solid #f8f9fa;
+                border-radius: 4px;
+                color: #3c4043;
+                font-size: 14px;
+                padding: 0 16px;
+                
+                height:36px;
+                width:200px;
+        		padding: 10px;
+        		font-size: 15px;
+        		text-align: center;
+                cursor: pointer;
+                vertical-align: top;
+                
+        	}
+
+               .adv, h3 {
+                text-align: left;
+                margin-left: 50px;
+
+
+            }
+
+            h3 {
+                padding-bottom: 0px;
+                padding-top: 30px;
+                font-weight: normal;
+            }
+
+            #header {
+                background-color: #f2f2f2;
+                height: 50px;
+                margin-left: -50px;
+                margin-top: -20px;
+                margin-right: -20px;
+                padding: 10px;
+
+            }
+
+            #advsearch {
+                color: #d93025; 
+                padding-left: 35px;
+                margin-top: -10px;
+                margin-bottom: 30px;
+
+
+            }
+
+            h2 {
+                font-weight: normal;
+                font-size: 20px;
+            }
+
+            #advbutton {
+                background-color: #4d90fe;
+                color: white;
+                float: justify;
+                margin-right: 100px;
+                width: 150px;
+                font-weight: bold;
+                padding: 5px;
+                border: 1px solid #3079ed;
+            }
+
